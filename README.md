@@ -1,2 +1,3 @@
 # Telecom_Subsystems
  
+Overview of the fundamentals of digital signal processing and implementation with software tools such as Matlab/Simulink. Digital implementation of analog (eg, AM, DSBsc, SSB) and digital (eg, M-QAM, M-PSK) modulations and demodulations, homogenous and heterodyne receiver architectures, wired and wireless transmission channel, and channel coding techniques for error detection and correction. Advanced digital subsystem implementation topics such as multi-carrier modulations (eg, OFDM), time and frequency domain channel estimation and correction, synchronization, carrier phase and frequency drift estimation and correction, etc.
